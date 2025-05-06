@@ -12,3 +12,18 @@
 🎯 With the **flutter_screenutil package**, the app achieves responsive and adaptive UI design. It allows the app's layout to adjust dynamically based on different screen sizes and resolutions, ensuring consistent and visually appealing user interfaces across various devices.
 
 🎯 Additionally, the app utilizes the **url_launcher package**, enabling users to launch external URLs directly from the app. This functionality provides a convenient way for users to access additional resources related to the characters, such as official websites, social media profiles, or merchandise stores.
+
+
+### 🎥 Demo
+
+[Click to watch the demo](https://www.linkedin.com/posts/mohamed-mousa-b1946a24a_flutter-flutterdev-fluttercommunity-activity-7107362254806753281-1h_i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2l_8UBkpejvCs4ysZXKCYHBIQ_0xljbRY)
+
+
+#### 🖼️ Screenshots
+
+<p float="left">
+  <img src="Rick_and_Morty_App/Screenshot_1.jpg" width="180"/>
+  <img src="Rick_and_Morty_App/Screenshot_2.jpg" width="180"/>
+  <img src="Rick_and_Morty_App/Screenshot_3.jpg" width="180"/>
+  <img src="Rick_and_Morty_App/Screenshot_4.jpg" width="180"/>
+</p>
